@@ -338,6 +338,9 @@ rsconnect/
 .history
 .ionide
 
+*.RData
+*.csv
+
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/python,r,pycharm,visualstudiocode
